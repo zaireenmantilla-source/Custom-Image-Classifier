@@ -6,10 +6,12 @@ Google Colab Link Here: https://colab.research.google.com/drive/1nbuTrgRi6nqxlNp
 
 **1. Dataset Preparation**
 
-**How did you organize your dataset in Google Drive?**
+# How did you organize your dataset in Google Drive?
 -
 ○ Why is folder structure important for TensorFlow image loading?
-2. Model Training
+
+**2. Model Training**
+-
 ○ What is the role of convolutional layers in image classification?
 ○ Why do we split data into training and validation sets?
 3. Performance Analysis

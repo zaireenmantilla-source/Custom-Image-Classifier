@@ -1,6 +1,8 @@
 # Custom Image Classifier
 Google Colab Link Here: https://colab.research.google.com/drive/1nbuTrgRi6nqxlNpMEQGIBr5e9K2V8FwV?usp=sharing
 
+Google Drive Link Here: https://drive.google.com/drive/folders/1D9JJ1PQiAtBLLpFhCrwOnLRryw8KZGDI?usp=drive_link
+
 
 # Guide Questions (Student Reflection & Explanation)
 
